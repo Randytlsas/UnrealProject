@@ -1436,3 +1436,202 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.10-19.34.35:253][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.10.10-19.34.35:259][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
 [2022.10.10-19.34.35:272][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.10.10-19.34.54:379][627]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/DyingBlueprints/StaminaHUD/Stamina.Stamina
+[2022.10.10-19.35.01:053][331]LogSlate: Window 'Stamina' being destroyed
+[2022.10.10-19.35.01:058][331]LogSlate: Window 'Stamina' being destroyed
+[2022.10.10-19.35.01:095][331]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-19.35.01:095][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-19.35.01:102][331]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-19.35.01:102][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-19.35.27:115][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.10.10-19.35.27:141][186]LogAssetEditorSubsystem: Opening Asset editor for World /Game/BAckRoomsLevel/Daniel_Maze_Lvl.Daniel_Maze_Lvl
+[2022.10.10-19.35.27:141][186]Cmd: MAP LOAD FILE="../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Content/BAckRoomsLevel/Daniel_Maze_Lvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.10-19.35.27:141][186]LightingResults: New page: Lighting Build
+[2022.10.10-19.35.27:141][186]LoadErrors: New page: Loading map: Daniel_Maze_Lvl.umap
+[2022.10.10-19.35.27:143][186]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-19.35.27:143][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-19.35.27:143][186]MapCheck: New page: Map Check
+[2022.10.10-19.35.27:143][186]LightingResults: New page: Lighting Build
+[2022.10.10-19.35.27:161][186]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.10-19.35.27:166][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.10.10-19.35.27:166][186]LogAudio: Display: Audio Device (ID: 1) registered with world 'Daniel_Maze_Lvl'.
+[2022.10.10-19.35.27:175][186]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.10-19.35.27:175][186]LogAIModule: Creating AISystem for world Daniel_Maze_Lvl
+[2022.10.10-19.35.27:202][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.10.10-19.35.27:208][186]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.10-19.35.27:208][186]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.197ms to complete.
+[2022.10.10-19.35.27:208][186]LogFileHelpers: Loading map 'Daniel_Maze_Lvl' took 0.067
+[2022.10.10-19.35.30:641][312]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/BAckRoomsLevel/Daniel_Maze_Lvl.Daniel_Maze_Lvl:PersistentLevel.Daniel_Maze_Lvl
+[2022.10.10-19.36.05:660][737]BlueprintLog: New page: Compile Daniel_Maze_Lvl
+[2022.10.10-19.36.05:705][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.10.10-19.36.41:533][185]LogEditorTransaction: Undo Move Node
+[2022.10.10-19.36.42:160][204]LogEditorTransaction: Undo Create Pin Link
+[2022.10.10-19.36.42:755][224]LogEditorTransaction: Undo Create Pin Link
+[2022.10.10-19.36.50:015][506]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.10-19.37.49:895][857]BlueprintLog: New page: Compile Daniel_Maze_Lvl
+[2022.10.10-19.37.49:944][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.10.10-19.37.50:587][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.10.10-19.37.50:646][879]LogSavePackage: Moving '../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Daniel_Maze_LvlF75B854B44494AA06FD1A39CD633E93F.tmp' to '../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Content/BAckRoomsLevel/Daniel_Maze_Lvl.umap'
+[2022.10.10-19.37.50:656][879]LogFileHelpers: Saving map 'Daniel_Maze_Lvl' took 0.092
+[2022.10.10-19.37.50:670][879]AssetCheck: New page: Asset Save: Daniel_Maze_Lvl
+[2022.10.10-19.37.50:670][879]LogContentValidation: Display: Validating World /Game/BAckRoomsLevel/Daniel_Maze_Lvl.Daniel_Maze_Lvl
+[2022.10.10-19.37.52:351][955]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.10-19.37.52:356][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.10-19.37.52:357][955]PIE: New page: PIE session: Daniel_Maze_Lvl (Oct 10, 2022, 9:37:52 AM)
+[2022.10.10-19.37.52:357][955]LogPlayLevel: Creating play world package: /Game/BAckRoomsLevel/UEDPIE_0_Daniel_Maze_Lvl
+[2022.10.10-19.37.52:367][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009906s)
+[2022.10.10-19.37.52:367][955]LogAIModule: Creating AISystem for world Daniel_Maze_Lvl
+[2022.10.10-19.37.52:368][955]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2022.10.10-19.37.52:368][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BAckRoomsLevel/Daniel_Maze_Lvl.Daniel_Maze_Lvl to /Game/BAckRoomsLevel/UEDPIE_0_Daniel_Maze_Lvl.Daniel_Maze_Lvl (0.011042s)
+[2022.10.10-19.37.52:392][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.10.10-19.37.52:392][955]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.10.10-19.37.52:392][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.10-19.37.52:392][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.10-19.37.52:393][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.10-19.37.52:393][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.10-19.37.52:393][955]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.10-19.37.52:393][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.10-19.37.52:393][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.10-19.37.52:393][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.10-19.37.52:393][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.10-19.37.52:393][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.10-19.37.52:393][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.10-19.37.52:393][955]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.10-19.37.52:395][955]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.10-19.37.52:395][955]LogAudioMixer: Display: 1: FrontRight
+[2022.10.10-19.37.52:417][955]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.10.10-19.37.52:417][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.10-19.37.52:417][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.10-19.37.52:417][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.10-19.37.52:417][955]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.10-19.37.52:417][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.10-19.37.52:417][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.10-19.37.52:418][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.10-19.37.52:418][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.10-19.37.52:418][955]LogInit: FAudioDevice initialized.
+[2022.10.10-19.37.52:419][955]LogAudio: Display: Audio Device (ID: 7) registered with world 'Daniel_Maze_Lvl'.
+[2022.10.10-19.37.52:430][955]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.10-19.37.52:434][955]LogWorld: Bringing World /Game/BAckRoomsLevel/UEDPIE_0_Daniel_Maze_Lvl.Daniel_Maze_Lvl up for play (max tick rate 0) at 2022.10.10-14.37.52
+[2022.10.10-19.37.52:435][955]LogWorld: Bringing up level for play took: 0.003772
+[2022.10.10-19.37.52:435][955]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.10.10-19.37.52:436][955]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.10-19.37.52:436][955]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.10-19.37.52:437][955]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.10-19.37.52:438][955]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.10-19.37.52:438][955]PIE: Server logged in
+[2022.10.10-19.37.52:438][955]PIE: Play in editor total start time 0.083 seconds.
+[2022.10.10-19.37.54:852][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-19.37.54:852][ 85]LogWorld: BeginTearingDown for /Game/BAckRoomsLevel/UEDPIE_0_Daniel_Maze_Lvl
+[2022.10.10-19.37.54:852][ 85]LogWorld: UWorld::CleanupWorld for Daniel_Maze_Lvl, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-19.37.54:853][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-19.37.54:873][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.10-19.37.54:879][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-19.37.54:908][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-19.37.54:909][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.10-19.37.54:910][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.10-19.37.54:918][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.10.10-19.37.54:938][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.10.10-19.38.04:509][484]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.10-19.38.04:522][484]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.10-19.39.09:362][851]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2022.10.10-19.39.09:368][851]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.10-19.39.11:710][934]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BAckRoomsLevel/NewWidgetBlueprint.NewWidgetBlueprint
+[2022.10.10-19.40.02:818][729]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2022.10.10-19.40.02:849][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.10.10-19.40.04:071][785]LogSavePackage: Moving '../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Saved/NewWidgetBlueprint4FECADDA46263471A169DB93ABA83352.tmp' to '../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Content/BAckRoomsLevel/NewWidgetBlueprint.uasset'
+[2022.10.10-19.40.04:084][785]AssetCheck: New page: Asset Save: NewWidgetBlueprint
+[2022.10.10-19.40.04:084][785]LogContentValidation: Display: Validating WidgetBlueprint /Game/BAckRoomsLevel/NewWidgetBlueprint.NewWidgetBlueprint
+[2022.10.10-19.40.07:771][977]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.10-19.40.07:792][977]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.10-19.40.16:414][365]BlueprintLog: New page: Compile Daniel_Maze_Lvl
+[2022.10.10-19.40.16:462][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.10.10-19.40.17:072][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.10-19.40.17:129][390]LogSavePackage: Moving '../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Daniel_Maze_LvlCEC90D5E413AB4AF8C874B9FD083EFBD.tmp' to '../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Content/BAckRoomsLevel/Daniel_Maze_Lvl.umap'
+[2022.10.10-19.40.17:135][390]LogFileHelpers: Saving map 'Daniel_Maze_Lvl' took 0.091
+[2022.10.10-19.40.17:146][390]AssetCheck: New page: Asset Save: Daniel_Maze_Lvl
+[2022.10.10-19.40.17:146][390]LogContentValidation: Display: Validating World /Game/BAckRoomsLevel/Daniel_Maze_Lvl.Daniel_Maze_Lvl
+[2022.10.10-19.40.20:812][603]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.10-19.40.20:817][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.10-19.40.20:817][603]PIE: New page: PIE session: Daniel_Maze_Lvl (Oct 10, 2022, 9:40:20 AM)
+[2022.10.10-19.40.20:818][603]LogPlayLevel: Creating play world package: /Game/BAckRoomsLevel/UEDPIE_0_Daniel_Maze_Lvl
+[2022.10.10-19.40.20:830][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012394s)
+[2022.10.10-19.40.20:831][603]LogAIModule: Creating AISystem for world Daniel_Maze_Lvl
+[2022.10.10-19.40.20:831][603]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2022.10.10-19.40.20:831][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BAckRoomsLevel/Daniel_Maze_Lvl.Daniel_Maze_Lvl to /Game/BAckRoomsLevel/UEDPIE_0_Daniel_Maze_Lvl.Daniel_Maze_Lvl (0.013710s)
+[2022.10.10-19.40.20:857][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.10.10-19.40.20:858][603]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.10.10-19.40.20:858][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.10-19.40.20:858][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.10-19.40.20:858][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.10-19.40.20:858][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.10-19.40.20:858][603]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.10-19.40.20:858][603]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.10-19.40.20:858][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.10-19.40.20:858][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.10-19.40.20:859][603]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.10-19.40.20:859][603]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.10-19.40.20:859][603]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.10-19.40.20:859][603]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.10-19.40.20:860][603]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.10-19.40.20:860][603]LogAudioMixer: Display: 1: FrontRight
+[2022.10.10-19.40.20:882][603]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.10.10-19.40.20:883][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.10-19.40.20:883][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.10-19.40.20:883][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.10-19.40.20:883][603]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.10-19.40.20:883][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.10-19.40.20:883][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.10-19.40.20:884][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.10-19.40.20:884][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.10-19.40.20:884][603]LogInit: FAudioDevice initialized.
+[2022.10.10-19.40.20:884][603]LogAudio: Display: Audio Device (ID: 8) registered with world 'Daniel_Maze_Lvl'.
+[2022.10.10-19.40.20:890][603]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.10-19.40.20:895][603]LogWorld: Bringing World /Game/BAckRoomsLevel/UEDPIE_0_Daniel_Maze_Lvl.Daniel_Maze_Lvl up for play (max tick rate 0) at 2022.10.10-14.40.20
+[2022.10.10-19.40.20:895][603]LogWorld: Bringing up level for play took: 0.004263
+[2022.10.10-19.40.20:896][603]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.10.10-19.40.20:898][603]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.10-19.40.20:898][603]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.10-19.40.20:898][603]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.10-19.40.20:899][603]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.10-19.40.20:899][603]PIE: Server logged in
+[2022.10.10-19.40.20:900][603]PIE: Play in editor total start time 0.083 seconds.
+[2022.10.10-19.41.00:292][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-19.41.00:292][433]LogWorld: BeginTearingDown for /Game/BAckRoomsLevel/UEDPIE_0_Daniel_Maze_Lvl
+[2022.10.10-19.41.00:292][433]LogWorld: UWorld::CleanupWorld for Daniel_Maze_Lvl, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-19.41.00:293][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-19.41.00:303][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.10-19.41.00:308][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-19.41.00:331][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-19.41.00:332][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.10-19.41.00:333][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.10-19.41.00:340][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.10.10-19.41.00:365][435]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.10.10-19.41.02:474][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.10.10-19.41.02:532][652]LogSavePackage: Moving '../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Daniel_Maze_LvlF4344A854CEE809AB2B8B8979F15CD01.tmp' to '../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Content/BAckRoomsLevel/Daniel_Maze_Lvl.umap'
+[2022.10.10-19.41.02:547][652]LogSavePackage: Moving '../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Daniel_Maze_Lvl_BuiltDataB26937794D9B1702B16C718A4E319286.tmp' to '../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Content/BAckRoomsLevel/Daniel_Maze_Lvl_BuiltData.uasset'
+[2022.10.10-19.41.02:561][652]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.10-19.41.02:561][652]LogContentValidation: Display: Validating World /Game/BAckRoomsLevel/Daniel_Maze_Lvl.Daniel_Maze_Lvl
+[2022.10.10-19.41.02:561][652]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BAckRoomsLevel/Daniel_Maze_Lvl_BuiltData.Daniel_Maze_Lvl_BuiltData
+[2022.10.10-19.41.05:215][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling)
+[2022.10.10-19.42.33:457][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Second_Half_maze)
+[2022.10.10-19.42.36:347][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-19.42.36:355][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-19.42.36:367][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-19.42.36:373][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-19.42.38:453][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-19.42.38:458][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-19.42.38:465][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-19.42.38:471][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-19.42.50:688][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.10.10-19.42.51:803][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.10.10-19.42.52:442][ 46]LogEditorViewport: Clicking Background
+[2022.10.10-19.43.08:705][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling)
+[2022.10.10-19.43.20:725][144]LogEditorViewport: Clicking Background
+[2022.10.10-19.43.31:922][452]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/en/BuildingWorlds/LevelEditor/Viewports/ViewportControls/
+[2022.10.10-19.44.30:755][ 58]LogEditorViewport: Clicking Background
+[2022.10.10-19.46.30:329][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.10.10-19.46.30:388][205]LogSavePackage: Moving '../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Daniel_Maze_LvlA8B3893A457A6F14CC1D4EB382CF9D28.tmp' to '../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Content/BAckRoomsLevel/Daniel_Maze_Lvl.umap'
+[2022.10.10-19.46.30:401][205]LogSavePackage: Moving '../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Daniel_Maze_Lvl_BuiltData1C0B585A468BC149D83F58AECB611C40.tmp' to '../../../../../../Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Content/BAckRoomsLevel/Daniel_Maze_Lvl_BuiltData.uasset'
+[2022.10.10-19.46.30:415][205]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.10-19.46.30:415][205]LogContentValidation: Display: Validating World /Game/BAckRoomsLevel/Daniel_Maze_Lvl.Daniel_Maze_Lvl
+[2022.10.10-19.46.30:415][205]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BAckRoomsLevel/Daniel_Maze_Lvl_BuiltData.Daniel_Maze_Lvl_BuiltData
