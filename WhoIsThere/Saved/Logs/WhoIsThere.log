@@ -1279,3 +1279,79 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.14-19.17.42:313][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.10.14-19.17.42:318][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
 [2022.10.14-19.17.42:342][823]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.10.14-19.31.57:272][648]LogSlate: Took 0.025403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.14-19.32.20:651][732]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.14-19.32.20:659][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.14-19.32.20:659][732]PIE: New page: PIE session: MainMenuMap (Oct 14, 2022, 7:32:20 PM)
+[2022.10.14-19.32.20:660][732]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuMap
+[2022.10.14-19.32.20:661][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001483s)
+[2022.10.14-19.32.20:662][732]LogAIModule: Creating AISystem for world MainMenuMap
+[2022.10.14-19.32.20:662][732]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2022.10.14-19.32.20:662][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuMap.MainMenuMap to /Game/UEDPIE_0_MainMenuMap.MainMenuMap (0.002759s)
+[2022.10.14-19.32.20:690][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.10.14-19.32.20:691][732]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.14-19.32.20:691][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.14-19.32.20:691][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.14-19.32.20:691][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.14-19.32.20:691][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.14-19.32.20:691][732]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.14-19.32.20:691][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.14-19.32.20:691][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.14-19.32.20:691][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.14-19.32.20:692][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.14-19.32.20:692][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.14-19.32.20:692][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.14-19.32.20:692][732]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.14-19.32.20:693][732]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.14-19.32.20:693][732]LogAudioMixer: Display: 1: FrontRight
+[2022.10.14-19.32.20:723][732]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2022.10.14-19.32.20:723][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.14-19.32.20:723][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.14-19.32.20:723][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.14-19.32.20:724][732]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.14-19.32.20:724][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.14-19.32.20:724][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.14-19.32.20:725][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.14-19.32.20:725][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.14-19.32.20:725][732]LogInit: FAudioDevice initialized.
+[2022.10.14-19.32.20:725][732]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenuMap'.
+[2022.10.14-19.32.20:735][732]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.14-19.32.20:735][732]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2022.10.14-19.32.20
+[2022.10.14-19.32.20:736][732]LogWorld: Bringing up level for play took: 0.000330
+[2022.10.14-19.32.20:736][732]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.10.14-19.32.20:738][732]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.14-19.32.20:738][732]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.14-19.32.20:738][732]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.14-19.32.20:739][732]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.14-19.32.20:740][732]PIE: Server logged in
+[2022.10.14-19.32.20:740][732]PIE: Play in editor total start time 0.082 seconds.
+[2022.10.14-19.32.22:112][892]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.14-19.32.22:112][892]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.14-19.32.22:112][892]LogNet: Browse: /Game/BAckRoomsLevel/Daniel_Maze_Lvl
+[2022.10.14-19.32.22:112][892]LogLoad: LoadMap: /Game/BAckRoomsLevel/Daniel_Maze_Lvl
+[2022.10.14-19.32.22:112][892]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuMap
+[2022.10.14-19.32.22:113][892]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.14-19.32.22:113][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-19.32.22:173][892]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.14-19.32.22:177][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.10.14-19.32.22:223][892]LogAudio: Display: Audio Device (ID: 4) registered with world 'Daniel_Maze_Lvl'.
+[2022.10.14-19.32.22:224][892]LogAIModule: Creating AISystem for world Daniel_Maze_Lvl
+[2022.10.14-19.32.22:225][892]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.14-19.32.22:232][892]LogWorld: Bringing World /Game/BAckRoomsLevel/UEDPIE_0_Daniel_Maze_Lvl.Daniel_Maze_Lvl up for play (max tick rate 0) at 2022.10.14-19.32.22
+[2022.10.14-19.32.22:233][892]LogWorld: Bringing up level for play took: 0.007712
+[2022.10.14-19.32.22:233][892]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.14-19.32.22:233][892]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.14-19.32.22:233][892]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.14-19.32.22:235][892]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.14-19.32.22:235][892]LogLoad: Took 0.122951 seconds to LoadMap(/Game/BAckRoomsLevel/Daniel_Maze_Lvl)
+[2022.10.14-19.32.34:888][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-19.32.34:888][381]LogWorld: BeginTearingDown for /Game/BAckRoomsLevel/UEDPIE_0_Daniel_Maze_Lvl
+[2022.10.14-19.32.34:888][381]LogWorld: UWorld::CleanupWorld for Daniel_Maze_Lvl, bSessionEnded=true, bCleanupResources=true
+[2022.10.14-19.32.34:890][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-19.32.34:895][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.14-19.32.34:901][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-19.32.34:926][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-19.32.34:927][381]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.14-19.32.34:928][381]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.14-19.32.34:941][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.10.14-19.32.34:963][382]LogPlayLevel: Display: Destroying online subsystem :Context_6
