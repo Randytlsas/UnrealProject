@@ -1101,3 +1101,181 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.14-19.11.58:329][457]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
 [2022.10.14-19.11.58:331][457]LogGameState: Match State Changed from WaitingToStart to InProgress
 [2022.10.14-19.11.58:331][457]LogLoad: Took 0.109772 seconds to LoadMap(/Game/BAckRoomsLevel/Daniel_Maze_Lvl)
+[2022.10.14-19.17.11:101][373]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.14-19.17.11:101][373]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.14-19.17.11:101][373]LogNet: Browse: /Game/BenMap/TunnelLevel
+[2022.10.14-19.17.11:101][373]LogLoad: LoadMap: /Game/BenMap/TunnelLevel
+[2022.10.14-19.17.11:101][373]LogWorld: BeginTearingDown for /Game/BAckRoomsLevel/UEDPIE_0_Daniel_Maze_Lvl
+[2022.10.14-19.17.11:102][373]LogWorld: UWorld::CleanupWorld for Daniel_Maze_Lvl, bSessionEnded=true, bCleanupResources=true
+[2022.10.14-19.17.11:103][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-19.17.11:152][373]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.14-19.17.11:158][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.10.14-19.17.11:266][373]LogMaterial: Display: Missing cached shadermap for Metal_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E707227D8A565A9BB51B71C9B813C4A518303482), compiling. 
+[2022.10.14-19.17.11:307][373]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.10.14-19.17.11:308][373]LogMaterial: Display: Missing cached shadermap for TunnelWalls in PCD3D_SM5, Default, SM5 (DDC key hash: FC5B8F447C16B4BB6F185920846A7669B51E05EB), compiling. 
+[2022.10.14-19.17.11:320][373]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 16
+[2022.10.14-19.17.11:320][373]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 15
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 14
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 13
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 12
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 11
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 10
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 9
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 8
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 7
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 6
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 5
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 4
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 3
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 2
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 1
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2022.10.14-19.17.11:321][373]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.10.14-19.17.11:321][373]LogStaticMesh: Building static mesh Tunnel1_tunnel...
+[2022.10.14-19.17.11:373][373]LogStaticMesh: Built static mesh [0.05s] /Game/BenMap/mesh/Tunnel1_tunnel.Tunnel1_tunnel
+[2022.10.14-19.17.11:381][373]LogMaterial: Display: Missing cached shadermap for Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 6F0367C10A37C28C2014EA539669FBF7D36E0A26), compiling. 
+[2022.10.14-19.17.11:394][373]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.10.14-19.17.11:394][373]LogStaticMesh: Building static mesh Room2_Crates...
+[2022.10.14-19.17.11:437][373]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 32
+[2022.10.14-19.17.11:437][373]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 30
+[2022.10.14-19.17.11:437][373]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 28
+[2022.10.14-19.17.11:437][373]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 26
+[2022.10.14-19.17.11:437][373]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 24
+[2022.10.14-19.17.11:437][373]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 22
+[2022.10.14-19.17.11:437][373]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 20
+[2022.10.14-19.17.11:437][373]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 18
+[2022.10.14-19.17.11:437][373]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 16
+[2022.10.14-19.17.11:437][373]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 14
+[2022.10.14-19.17.11:437][373]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 12
+[2022.10.14-19.17.11:437][373]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 10
+[2022.10.14-19.17.11:437][373]LogShaderCompilers: Display: Started 24 'Local' shader compile jobs with 'Low' priority
+[2022.10.14-19.17.11:437][373]LogStaticMesh: Built static mesh [0.04s] /Game/BenMap/Room2_Crates.Room2_Crates
+[2022.10.14-19.17.11:445][373]LogMaterial: Display: Missing cached shadermap for Box in PCD3D_SM5, Default, SM5 (DDC key hash: 26525C4B0DE08B005EA7BD9E9AFA5CD56C241CBA), compiling. 
+[2022.10.14-19.17.11:460][373]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.10.14-19.17.11:462][373]LogMaterial: Display: Missing cached shadermap for Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 0E8E62115C53CD8E3F9D9176DDA2950227A1F32B), compiling. 
+[2022.10.14-19.17.11:474][373]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.10.14-19.17.11:475][373]LogStaticMesh: Building static mesh Tunnel1_Decoratio...
+[2022.10.14-19.17.11:498][373]LogStaticMesh: Built static mesh [0.02s] /Game/BenMap/mesh/Tunnel1_Decoratio.Tunnel1_Decoratio
+[2022.10.14-19.17.11:503][373]LogStaticMesh: Building static mesh Tunnel1_pATHWAY...
+[2022.10.14-19.17.11:565][373]LogStaticMesh: Built static mesh [0.06s] /Game/BenMap/mesh/Tunnel1_pATHWAY.Tunnel1_pATHWAY
+[2022.10.14-19.17.11:575][373]LogStaticMesh: Building static mesh Room3...
+[2022.10.14-19.17.11:582][373]LogStaticMesh: Built static mesh [0.01s] /Game/BenMap/Room3.Room3
+[2022.10.14-19.17.11:584][373]LogStaticMesh: Building static mesh Room2_DoorWay...
+[2022.10.14-19.17.11:592][373]LogStaticMesh: Built static mesh [0.01s] /Game/BenMap/Room2_DoorWay.Room2_DoorWay
+[2022.10.14-19.17.11:595][373]LogStaticMesh: Building static mesh Room2_FloorTiles...
+[2022.10.14-19.17.11:871][373]LogStaticMesh: Built static mesh [0.28s] /Game/BenMap/Room2_FloorTiles.Room2_FloorTiles
+[2022.10.14-19.17.11:915][373]LogMaterial: Display: Missing cached shadermap for Floor in PCD3D_SM5, Default, SM5 (DDC key hash: B0F3B797A91475CECBA5F7C2A7A49372D74EEC9C), compiling. 
+[2022.10.14-19.17.11:928][373]LogMaterial: Display: Missing cached shadermap for Beams_001 in PCD3D_SM5, Default, SM5 (DDC key hash: E7019B4DABB9474B19CC4AB9B42CF924A6E0EE25), compiling. 
+[2022.10.14-19.17.11:940][373]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.10.14-19.17.11:949][373]LogAudio: Display: Audio Device (ID: 3) registered with world 'TunnelLevel'.
+[2022.10.14-19.17.11:950][373]LogAIModule: Creating AISystem for world TunnelLevel
+[2022.10.14-19.17.11:950][373]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.14-19.17.11:975][373]LogWorld: Bringing World /Game/BenMap/UEDPIE_0_TunnelLevel.TunnelLevel up for play (max tick rate 0) at 2022.10.14-19.17.11
+[2022.10.14-19.17.11:975][373]LogWorld: Bringing up level for play took: 0.023694
+[2022.10.14-19.17.11:976][373]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.14-19.17.11:976][373]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.14-19.17.11:976][373]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.14-19.17.11:978][373]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.14-19.17.11:978][373]LogLoad: Took 0.877011 seconds to LoadMap(/Game/BenMap/TunnelLevel)
+[2022.10.14-19.17.11:991][374]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099134 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2022.10.14-19.17.12:644][434]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2022.10.14-19.17.12:644][434]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.14-19.17.12:653][434]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.14-19.17.12:653][434]LogShaderCompilers: Display: Total job queries 112, among them cache hits 0 (0.00%)
+[2022.10.14-19.17.12:653][434]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.10.14-19.17.12:653][434]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 5734.40 MB (5.60 GB) budget. Usage: 0.00%
+[2022.10.14-19.17.12:653][434]LogShaderCompilers: Display: ================================================
+[2022.10.14-19.17.12:762][439]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 6
+[2022.10.14-19.17.12:762][439]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.14-19.17.12:786][440]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 5
+[2022.10.14-19.17.12:786][440]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.14-19.17.12:862][443]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 4
+[2022.10.14-19.17.12:862][443]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 3
+[2022.10.14-19.17.12:862][443]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.14-19.17.12:886][444]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 2
+[2022.10.14-19.17.12:886][444]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.14-19.17.12:902][445]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 1
+[2022.10.14-19.17.12:902][445]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.14-19.17.12:964][448]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 49
+[2022.10.14-19.17.12:964][448]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:073][450]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 47
+[2022.10.14-19.17.13:073][450]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:073][450]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 45
+[2022.10.14-19.17.13:073][450]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:136][451]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 43
+[2022.10.14-19.17.13:137][451]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:196][452]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 41
+[2022.10.14-19.17.13:196][452]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:197][452]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 39
+[2022.10.14-19.17.13:197][452]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:197][452]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 37
+[2022.10.14-19.17.13:197][452]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:261][452]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 35
+[2022.10.14-19.17.13:261][452]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 33
+[2022.10.14-19.17.13:261][452]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:261][452]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 31
+[2022.10.14-19.17.13:261][452]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:261][452]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 29
+[2022.10.14-19.17.13:261][452]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:275][453]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 27
+[2022.10.14-19.17.13:275][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:353][453]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 26
+[2022.10.14-19.17.13:354][453]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 25
+[2022.10.14-19.17.13:354][453]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:354][453]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 24
+[2022.10.14-19.17.13:354][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:354][453]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 23
+[2022.10.14-19.17.13:354][453]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 22
+[2022.10.14-19.17.13:354][453]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 21
+[2022.10.14-19.17.13:354][453]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:447][454]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 20
+[2022.10.14-19.17.13:448][454]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:448][454]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 19
+[2022.10.14-19.17.13:448][454]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:543][455]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 18
+[2022.10.14-19.17.13:543][455]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:543][455]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 17
+[2022.10.14-19.17.13:543][455]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:543][455]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 16
+[2022.10.14-19.17.13:543][455]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:576][457]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.10.14-19.17.13:599][457]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 15
+[2022.10.14-19.17.13:599][457]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 14
+[2022.10.14-19.17.13:599][457]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:656][459]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 13
+[2022.10.14-19.17.13:656][459]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:743][462]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 12
+[2022.10.14-19.17.13:743][462]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:762][463]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 11
+[2022.10.14-19.17.13:762][463]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:798][465]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 10
+[2022.10.14-19.17.13:798][465]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:798][465]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 9
+[2022.10.14-19.17.13:798][465]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:867][467]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 8
+[2022.10.14-19.17.13:867][467]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:867][467]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 7
+[2022.10.14-19.17.13:867][467]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:872][467]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 6
+[2022.10.14-19.17.13:872][467]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:879][467]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 5
+[2022.10.14-19.17.13:879][467]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:905][468]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 4
+[2022.10.14-19.17.13:905][468]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.13:912][468]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 3
+[2022.10.14-19.17.13:912][468]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 2
+[2022.10.14-19.17.13:912][468]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.14:041][476]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 1
+[2022.10.14-19.17.14:041][476]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.14-19.17.42:263][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-19.17.42:263][822]LogWorld: BeginTearingDown for /Game/BenMap/UEDPIE_0_TunnelLevel
+[2022.10.14-19.17.42:263][822]LogWorld: UWorld::CleanupWorld for TunnelLevel, bSessionEnded=true, bCleanupResources=true
+[2022.10.14-19.17.42:264][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-19.17.42:270][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.14-19.17.42:277][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-19.17.42:300][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.14-19.17.42:301][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.14-19.17.42:302][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.14-19.17.42:313][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-19.17.42:318][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.10.14-19.17.42:342][823]LogPlayLevel: Display: Destroying online subsystem :Context_5
