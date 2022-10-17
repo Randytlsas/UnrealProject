@@ -1148,3 +1148,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.17-19.40.18:091][569]AssetCheck: New page: Asset Save: multiple assets
 [2022.10.17-19.40.18:091][569]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.10.17-19.40.18:091][569]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.10.17-19.50.18:029][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.10.17-19.50.18:031][270]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.010
+[2022.10.17-19.50.18:032][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Albert/Import/Props_bowl] ([1] browsable assets)...
+[2022.10.17-19.50.18:061][270]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Albert/Import/Props_bowl.Props_bowl]
+[2022.10.17-19.50.18:061][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Albert/Import/Props_bowl]
+[2022.10.17-19.50.18:111][270]LogSavePackage: Moving '../../../../../../Users/RL.T252.18/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Props_bowl_Auto1C5BC95C64F83F5E88696A9A55ACD7D1D.tmp' to '../../../../../../Users/RL.T252.18/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Autosaves/Game/Props/Albert/Import/Props_bowl_Auto1.uasset'
+[2022.10.17-19.50.18:112][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Albert/Import/Props_vase] ([1] browsable assets)...
+[2022.10.17-19.50.18:141][270]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Albert/Import/Props_vase.Props_vase]
+[2022.10.17-19.50.18:141][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Albert/Import/Props_vase]
+[2022.10.17-19.50.18:193][270]LogSavePackage: Moving '../../../../../../Users/RL.T252.18/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Props_vase_Auto1EE7CF44C4A6C735730EBFB8293D95C5B.tmp' to '../../../../../../Users/RL.T252.18/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Autosaves/Game/Props/Albert/Import/Props_vase_Auto1.uasset'
+[2022.10.17-19.50.18:194][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Albert/Import/Props_pasted__polySurface9] ([1] browsable assets)...
+[2022.10.17-19.50.18:225][270]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Albert/Import/Props_pasted__polySurface9.Props_pasted__polySurface9]
+[2022.10.17-19.50.18:225][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Albert/Import/Props_pasted__polySurface9]
+[2022.10.17-19.50.18:233][270]LogSavePackage: Moving '../../../../../../Users/RL.T252.18/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Props_pasted__polySurface9_Auto136EA6D874C60633AFDC4D4B044EA1432.tmp' to '../../../../../../Users/RL.T252.18/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Autosaves/Game/Props/Albert/Import/Props_pasted__polySurface9_Auto1.uasset'
+[2022.10.17-19.50.18:241][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Albert/Import/Props_polySurface9] ([1] browsable assets)...
+[2022.10.17-19.50.18:271][270]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Albert/Import/Props_polySurface9.Props_polySurface9]
+[2022.10.17-19.50.18:271][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Albert/Import/Props_polySurface9]
+[2022.10.17-19.50.18:281][270]LogSavePackage: Moving '../../../../../../Users/RL.T252.18/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Props_polySurface9_Auto1DB2119B44412F6FB33F1BA85DBA35DDF.tmp' to '../../../../../../Users/RL.T252.18/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Autosaves/Game/Props/Albert/Import/Props_polySurface9_Auto1.uasset'
+[2022.10.17-19.50.18:282][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Albert/Import/Props_nurbsToPoly4] ([1] browsable assets)...
+[2022.10.17-19.50.18:311][270]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Albert/Import/Props_nurbsToPoly4.Props_nurbsToPoly4]
+[2022.10.17-19.50.18:311][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Albert/Import/Props_nurbsToPoly4]
+[2022.10.17-19.50.18:331][270]LogSavePackage: Moving '../../../../../../Users/RL.T252.18/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Props_nurbsToPoly4_Auto18369E5D94A668A826803169AAF9D798F.tmp' to '../../../../../../Users/RL.T252.18/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Autosaves/Game/Props/Albert/Import/Props_nurbsToPoly4_Auto1.uasset'
+[2022.10.17-19.50.18:332][270]LogFileHelpers: Auto-saving content packages took 0.301
