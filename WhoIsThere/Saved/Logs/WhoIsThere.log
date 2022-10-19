@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 10/19/22 14:33:56
+=======
+﻿Log file open, 10/19/22 13:38:27
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 10/19/22 13:38:27
 >>>>>>> Stashed changes
@@ -15,7 +19,11 @@ LogInit: Display: Running engine for game: WhoIsThere
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.250041
+=======
+LogStats: Stats thread started at 0.314656
+>>>>>>> Stashed changes
 =======
 LogStats: Stats thread started at 0.314656
 >>>>>>> Stashed changes
@@ -24,7 +32,10 @@ LogInit: Display: Loading text-based GConfig....
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin Paper2D
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AISupport
@@ -32,6 +43,7 @@ LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin LiveLink
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin GameplayCameras
@@ -41,17 +53,24 @@ LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin OodleNetwork
 =======
 LogPluginManager: Mounting plugin GameplayCameras
+=======
+LogPluginManager: Mounting plugin GameplayCameras
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin OodleData
 LogPluginManager: Mounting plugin OodleNetwork
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin NullSourceCodeAccess
 LogPluginManager: Mounting plugin PerforceSourceControl
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin PixWinPlugin
 LogPluginManager: Mounting plugin PlasticSourceControl
@@ -102,6 +121,18 @@ LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin TextureFormatOodle
 LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin CryptoKeys
+=======
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CurveEditorTools
 LogPluginManager: Mounting plugin DataValidation
 LogPluginManager: Mounting plugin FacialAnimation
@@ -128,6 +159,9 @@ LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin GeometryCache
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
@@ -138,7 +172,11 @@ LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin GeometryProcessing
+=======
+LogPluginManager: Mounting plugin MaterialAnalyzer
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin MaterialAnalyzer
 >>>>>>> Stashed changes
@@ -149,8 +187,13 @@ LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin OpenImageDenoise
 LogPluginManager: Mounting plugin MotoSynth
+=======
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin OpenImageDenoise
@@ -282,7 +325,11 @@ LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/RL.T252.11/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Config/Windows/Engine.ini]
+=======
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/RL.T252.12/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Config/Windows/Engine.ini]
+>>>>>>> Stashed changes
 =======
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/RL.T252.12/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Config/Windows/Engine.ini]
 >>>>>>> Stashed changes
@@ -303,6 +350,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2022.10.19-19.33.57:137][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.10.19-19.33.57:137][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -2052,6 +2100,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.19-19.49.38:229][431]LogContentValidation: Display: Validating World /Game/BAckRoomsLevel/Daniel_Maze_Lvl.Daniel_Maze_Lvl
 [2022.10.19-19.49.38:229][431]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BAckRoomsLevel/Daniel_Maze_Lvl_BuiltData.Daniel_Maze_Lvl_BuiltData
 =======
+=======
+>>>>>>> Stashed changes
 [2022.10.19-18.38.27:824][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.10.19-18.38.27:824][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2022.10.19-18.38.27:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/RL.T252.12/Documents/GitHub/UnrealProject/WhoIsThere/Saved/Config/Windows/Engine.ini]
@@ -6901,4 +6951,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.19-20.01.56:481][148]LogD3D11RHI: CleanupD3DDevice
 [2022.10.19-20.01.56:486][148]LogExit: Exiting.
 [2022.10.19-20.01.56:493][148]Log file closed, 10/19/22 15:01:56
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
